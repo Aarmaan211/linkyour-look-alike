@@ -1,6 +1,5 @@
 import { ProfileCard } from '@/components/ProfileCard';
 import { SocialLinks } from '@/components/SocialLinks';
-import { BioLinks } from '@/components/BioLinks';
 import atmosphericBg from '@/assets/atmospheric-background.jpg';
 
 const Index = () => {
@@ -31,9 +30,6 @@ const Index = () => {
         
         {/* Social Links */}
         <SocialLinks />
-        
-        {/* Bio Links */}
-        <BioLinks />
       </div>
     </div>
   );
