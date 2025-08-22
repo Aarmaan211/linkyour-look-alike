@@ -37,8 +37,8 @@
     --radius: 1rem;
 
     /* Custom biolinks variables */
-    --glass-bg: 220 15% 12% / 0.8;
-    --glass-border: 210 20% 98% / 0.1;
+    --glass-bg: 220 15% 12% / 0.15;
+    --glass-border: 210 20% 98% / 0.05;
     --profile-glow: 200 100% 60% / 0.3;
     --status-online: 120 100% 50%;
     --atmospheric-overlay: 220 30% 5% / 0.6;

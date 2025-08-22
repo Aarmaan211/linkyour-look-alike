@@ -23,8 +23,8 @@ export const ProfileCard = ({
 }: ProfileCardProps) => {
   return (
     <div className="relative">
-      {/* Atmospheric overlay with glassmorphism */}
-      <div className="backdrop-blur-xl bg-glass border border-glass-border rounded-3xl p-8 shadow-2xl">
+      {/* Atmospheric overlay with minimal glassmorphism */}
+      <div className="backdrop-blur-sm bg-glass border border-glass-border rounded-3xl p-8 shadow-2xl">
         {/* Main profile section */}
         <div className="text-center space-y-6">
           {/* Profile name and title */}
